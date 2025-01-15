@@ -21,4 +21,8 @@ CSS: Linguagem de estilos para definir a aparência do jogo.
 JavaScript: Linguagem de script para implementar a lógica do jogo.
 Considerações finais
 
-Este jogo de damas é um projeto simples que demonstra habilidades básicas de desenvolvimento web. O código pode ser expandido para incluir funcionalidades adicionais, como captura de peças, inteligência artificial e multiplayer.
+Este jogo de damas é um projeto simples que demonstra habilidades básicas de desenvolvimento web. O código pode ser expandido para incluir funcionalidades adicionais, como captura de peças, inteligência artificial e multiplayer.   
+
+
+Autor - Gabriel do carmo 
+Por favor, siga o github e junte-se a nós! Obrigado por me visitar e boa codificação!
